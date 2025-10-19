@@ -1,0 +1,1 @@
+make && ldid -Sxml.entitlements Basepring
