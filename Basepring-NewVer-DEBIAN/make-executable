@@ -1,1 +1,2 @@
-make && ldid -Sxml.entitlements Basepring
+#!/bin/sh
+apt install make && apt install ldid && apt install clang && make && ldid -Sxml.entitlements Basepring
